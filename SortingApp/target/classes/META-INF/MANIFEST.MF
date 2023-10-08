@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: MVA
+Build-Jdk: 20.0.2
+Class-Path: commons-io-2.11.0.jar
+Main-Class: com.example.SortingApp
+Created-By: Maven Integration for Eclipse
+

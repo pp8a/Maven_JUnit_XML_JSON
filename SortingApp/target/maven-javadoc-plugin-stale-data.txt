@@ -1,0 +1,51 @@
+@options
+@packages
+-classpath
+'C:/Users/MVA/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'E:/Users/MVA/eclipse-workspace/SortingApp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/Users/MVA/eclipse-workspace/SortingApp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SortingApp 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'E:/Users/MVA/eclipse-workspace/SortingApp/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'SortingApp 0.0.1-SNAPSHOT API'
+com.example.SortingApp
+C:\Users\MVA\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar = 1678872372582
+E:\Users\MVA\eclipse-workspace\SortingApp\src\main\java = 1696087119480
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\allclasses-index.html = 1696145112536
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\allpackages-index.html = 1696145112541
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\copy.svg = 1696145112598
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\element-list = 1696145112482
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\help-doc.html = 1696145112583
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\index-all.html = 1696145112559
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\index.html = 1696145112565
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\jquery-ui.overrides.css = 1696104291372
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\link.svg = 1696145112599
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\member-search-index.js = 1696145112546
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\module-search-index.js = 1696145112542
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\overview-tree.html = 1696145112518
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\package-search-index.js = 1696145112543
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\script.js = 1696145112596
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\search-page.js = 1696145112605
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\search.html = 1696145112562
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\search.js = 1696145112603
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\stylesheet.css = 1696145112595
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\tag-search-index.js = 1696145112547
+E:\Users\MVA\eclipse-workspace\SortingApp\target\site\apidocs\type-search-index.js = 1696145112545
